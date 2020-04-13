@@ -23,6 +23,8 @@
 # score = 90
 # print(score)
 #if you use the same variable name it will only use the last one written
+# now we are going to learn how to comment! The more I do the more I am learning why this is so important
+#We are now are s2ch14
 
 
 
