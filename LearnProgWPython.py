@@ -32,3 +32,13 @@
 # print('I am',age,'years old')
 #I have learnd this a few time and just waiting to see if i have missed something. 
 #you can add int or float to an input to make sure that the input is what you want however you will have to write error codes
+# #how to make a string
+# x = 4.4
+# str(x)
+# print(x)
+# y= x+3
+# print(y)
+# x=x+3
+# print(x)
+# #Dont know why we are learning how to change variable in a section about strings. 
+
