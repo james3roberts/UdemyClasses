@@ -25,6 +25,10 @@
 #if you use the same variable name it will only use the last one written
 # now we are going to learn how to comment! The more I do the more I am learning why this is so important
 #We are now are s2ch14
-
-
-
+#now we are going to learn about inputs
+# x=input('please enter x value ')
+# print(x)
+# age = input('What is your age? ')
+# print('I am',age,'years old')
+#I have learnd this a few time and just waiting to see if i have missed something. 
+#you can add int or float to an input to make sure that the input is what you want however you will have to write error codes
