@@ -43,4 +43,14 @@
 # #Dont know why we are learning how to change variable in a section about strings. 
 #now time to learn about operators in python 
 #section2 chapter 17
+ #a new thing is double division signs does not give a float but a whole number.
+# e=5//2
+# print(e)
+##Tie to start real world examples.
+##The goal is to give a price of an item with a 50% discount.
+# discount_rate= 50/100
+# original = int(input("what is the original prince of the item"))
+# sales_price=original*discount_rate
+# print("The price after 50 % discounnt is $",sales_price)
+# ##Well this worked to give a discount. 
 
