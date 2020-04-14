@@ -41,4 +41,6 @@
 # x=x+3
 # print(x)
 # #Dont know why we are learning how to change variable in a section about strings. 
+#now time to learn about operators in python 
+#section2 chapter 17
 
