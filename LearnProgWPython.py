@@ -61,3 +61,14 @@
 # exam3 = int(input('Third test score: '))
 # ave =(exam1 + exam2+ exam3 )/numberOfExams
 # print('the average test score is',format (ave,'.2f'))
+# real world problem to find percent that pass a class and percent that failed
+# passed = int(input('Number of students that passed: '))
+# failed = int(input('Number of students that failed: '))
+# total = passed + failed
+# passPerc = passed/total
+# failPer = failed/total
+# print(format(passPerc,'.0%'), 'OF students that passes')
+# print(format(failPer,'.0%'),'of students that failed')
+# #this works but leaves a decimal place
+# #the format fixxes the decimal. add .0 before % sign to have no decimal
+#Time to start if statements
