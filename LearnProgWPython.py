@@ -53,4 +53,12 @@
 # sales_price=original*discount_rate
 # print("The price after 50 % discounnt is $",sales_price)
 # ##Well this worked to give a discount. 
+#real world problem to figure out grades. 
+# numberOfExams = 3
+# exam1 = int(input('First test score: '))
+# exam2 = int(input('Second test score: '))
+# exam3 = int(input('Third test score: '))
+# ave =(exam1 + exam2+ exam3 )/numberOfExams
+# print('the average test score is', ave)
+# #Well this works to find the average. 
 
