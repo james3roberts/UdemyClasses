@@ -54,11 +54,10 @@
 # print("The price after 50 % discounnt is $",sales_price)
 # ##Well this worked to give a discount. 
 #real world problem to figure out grades. 
+#add the formatting option to only have 2 decimal places.Line 63 works great
 # numberOfExams = 3
 # exam1 = int(input('First test score: '))
 # exam2 = int(input('Second test score: '))
 # exam3 = int(input('Third test score: '))
 # ave =(exam1 + exam2+ exam3 )/numberOfExams
-# print('the average test score is', ave)
-# #Well this works to find the average. 
-
+# print('the average test score is',format (ave,'.2f'))
